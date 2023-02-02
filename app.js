@@ -34,7 +34,7 @@ alert("Other skill is " + other_$_Skill);
 // var Other-2-skill = 'Mob App Developer \n python';
 
 
-/*              Question0-3: 
+/*              Question-03: 
 Display this in your browser
 a) A heading stating “Rules for naming JS variables”
 b) Variable names can only contain ______, ______,
